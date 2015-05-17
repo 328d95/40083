@@ -1,1 +1,1 @@
-hyperloglog.py was copied from https://github.com/sergeio/hyperloglog who implemented the algorithm based on the definition shown in Flajolet et al's paper (available from http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf).
+Testing playground for HyperLogLog.

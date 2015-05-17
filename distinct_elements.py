@@ -5,4 +5,6 @@ with open(sys.argv[1], 'r') as f:
   elements = collections.Counter()
   for line in f:
     elements.update([line])
-  print(len(list(elements)))
+  elements_list = list(elements)
+  n = len(elements_list)
+  print(n)
